@@ -10,7 +10,7 @@ def argue (a)
   return a
 end
 
-def greeting (greeting="",name="You")
+def greeting (greeting,name="You")
 
 end
 
@@ -23,5 +23,5 @@ def last_evaluated_value
   a="expert"
 end
 
-def pizza_party
+def pizza_party(top="cheese")
 end
